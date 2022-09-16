@@ -1,6 +1,6 @@
 - VIT, Vellore '25
 - Interested in machine learning and web development
-- Currently learning about neural networks, R, Java and Bootstrap
+- Currently learning about machine learning
 - Looking for internships in web development
 - Contact me @ hardikbhatia777@gmail.com
 
